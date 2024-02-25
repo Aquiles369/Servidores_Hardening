@@ -12,8 +12,7 @@ Varios archivos:
 <br>+
 [Apache2](OSSTMM_v3_traducido_al_Español.pdf)<br>
 +[Nginx](Resumen_personal_de_OSSTMM_V3_ES.txt)<br>
-+[Pentesting Apache2](Resumen_personal_de_OSSTMM_V3_ES.txt)<br>
-+[Pentesting Nginx](Resumen_personal_de_OSSTMM_V3_ES.txt)<br>
++[Pentesting](Resumen_personal_de_OSSTMM_V3_ES.txt)<br>
 
 
 
